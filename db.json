@@ -5,7 +5,7 @@
         "titulo": "Terror Sobrenatural",
         "cor": "#6BD1FF",
         "link_extra": {
-          "text": "Terror em Silent Hill",
+          "text": "Filme Favorito: Terror em Silent Hill",
           "url": "https://www.youtube.com/watch?v=1mfnhu8sO5k"
         }
       },
@@ -14,7 +14,7 @@
         "titulo": "Casos Reais",
         "cor": "#00C86F",
         "link_extra": {
-          "text": "Invocação do Mal",
+          "text": "Filme Favorito: Invocação do Mal",
           "url": "https://www.youtube.com/watch?v=GQrrXceHn2E"
         }
       },
@@ -23,7 +23,7 @@
         "titulo": "Clássicos do Cinema",
         "cor": "#9cd33b",
         "link_extra": {
-          "text": "O Iluminado",
+          "text": "Filme Favorito: O Iluminado",
           "url": "https://www.youtube.com/watch?v=lnsFOmv8Yjk"
         }
       },
@@ -32,7 +32,7 @@
         "titulo": "Terror Psicológico",
         "cor": "orange",
         "link_extra": {
-          "text": "A Pele que Habito",
+          "text": "Filme Favorito: A Pele que Habito",
           "url": "https://www.youtube.com/watch?v=9Wgs0cGBj8E"
         }
       },
@@ -41,7 +41,7 @@
         "titulo": "Aclamados pela crítica",
         "cor": "red",
         "link_extra": {
-          "text": "Corra",
+          "text": "Filme Favorito: Corra",
           "url": "https://www.youtube.com/watch?v=mDGV5UucTu8"
         }
       }
