@@ -2,43 +2,47 @@
     "categorias": [
       {
         "id": 1,
-        "titulo": "Front End",
+        "titulo": "Terror Sobrenatural",
         "cor": "#6BD1FF",
         "link_extra": {
-          "text": "Formação de Front End na Alura",
-          "url": "https://www.alura.com.br/cursos-online-front-end"
+          "text": "Terror em Silent Hill",
+          "url": "https://www.youtube.com/watch?v=1mfnhu8sO5k"
         }
       },
       {
         "id": 2,
-        "titulo": "Back End",
+        "titulo": "Casos Reais",
         "cor": "#00C86F",
         "link_extra": {
-          "text": "Cursos de Back End na Alura",
-          "url": "https://www.alura.com.br/cursos-online-programacao"
+          "text": "Invocação do Mal",
+          "url": "https://www.youtube.com/watch?v=GQrrXceHn2E"
         }
       },
       {
         "id": 3,
-        "titulo": "Data Science e Inteligência Artificial",
+        "titulo": "Clássicos do Cinema",
         "cor": "#9cd33b",
         "link_extra": {
-          "text": "Cursos de Data Science na Alura",
-          "url": "https://www.alura.com.br/cursos-online-mobile"
+          "text": "O Iluminado",
+          "url": "https://www.youtube.com/watch?v=lnsFOmv8Yjk"
         }
       },
       {
         "id": 4,
-        "titulo": "Filmes",
-        "cor": "orange"
+        "titulo": "Terror Psicológico",
+        "cor": "orange",
+        "link_extra": {
+          "text": "A Pele que Habito",
+          "url": "https://www.youtube.com/watch?v=9Wgs0cGBj8E"
+        }
       },
       {
         "id": 5,
-        "titulo": "Games",
+        "titulo": "Aclamados pela crítica",
         "cor": "red",
         "link_extra": {
-          "text": "Formação de Jogos na Alura",
-          "url": "https://www.alura.com.br/cursos-online-front-end"
+          "text": "Corra",
+          "url": "https://www.youtube.com/watch?v=mDGV5UucTu8"
         }
       }
     ],
@@ -46,146 +50,146 @@
       {
         "id": 1,
         "categoriaId": 1,
-        "titulo": "SEO com React",
-        "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+        "titulo": "A Morte do Demônio",
+        "url": "https://www.youtube.com/watch?v=JBfub8SbtvU"
       },
       {
         "id": 2,
         "categoriaId": 1,
-        "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-        "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+        "titulo": "O Chamado",
+        "url": "https://www.youtube.com/watch?v=8oiHy_yoJHQ"
       },
       {
         "id": 3,
         "categoriaId": 1,
-        "titulo": "Componentização com VanillaJS #AluraMais",
-        "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+        "titulo": "Sobrenatural",
+        "url": "https://www.youtube.com/watch?v=0AHVW_yenRs"
       },
       {
         "id": 4,
         "categoriaId": 1,
-        "titulo": "Pare de chutar e aprenda a display: inline #01",
-        "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+        "titulo": "Annabelle",
+        "url": "https://www.youtube.com/watch?v=kHl6aU30pIo"
       },
       {
         "id": 5,
         "categoriaId": 1,
-        "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-        "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+        "titulo": "Assim na Terra como no Inferno",
+        "url": "https://www.youtube.com/watch?v=ry4QSkZYS64"
       },
       {
         "id": 6,
         "categoriaId": 1,
-        "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-        "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+        "titulo": "IT: A Coisa",
+        "url": "https://www.youtube.com/watch?v=dD264ZjfKlk"
       },
       {
         "id": 7,
         "categoriaId": 1,
-        "titulo": "Novidades do Angular v9",
-        "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+        "titulo": "Imagens do Além",
+        "url": "https://www.youtube.com/watch?v=Aa6EwMEScgA"
       },
       {
         "id": 8,
         "categoriaId": 2,
-        "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-        "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+        "titulo": "A Bruxa de Blair",
+        "url": "https://www.youtube.com/watch?v=zgPiiaLQD5Y"
       },
       {
         "id": 9,
         "categoriaId": 2,
-        "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-        "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+        "titulo": "O Exorcismo de Emily Rose",
+        "url": "https://www.youtube.com/watch?v=Bi-PLwxwvy8"
       },
       {
         "id": 10,
         "categoriaId": 2,
-        "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-        "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+        "titulo": "Terror em Amityville",
+        "url": "https://www.youtube.com/watch?v=2Qwt2XzrpOo"
       },
       {
         "id": 11,
         "categoriaId": 2,
-        "titulo": "API: Dicionário do Programador",
-        "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+        "titulo": "O Massacre da Serra Elétrica",
+        "url": "https://www.youtube.com/watch?v=ok7VU_1uL90"
       },
       {
         "id": 12,
         "categoriaId": 2,
-        "titulo": "Usando Git Direito",
-        "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+        "titulo": "Viagem ao Inferno",
+        "url": "https://www.youtube.com/watch?v=EIA_xadQ1Lk"
       },
       {
         "id": 13,
         "categoriaId": 3,
-        "titulo": "Teste de Turing",
-        "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+        "titulo": "O Bebê de Rosemary",
+        "url": "https://www.youtube.com/watch?v=JGQlvbpIMwc"
       },
       {
         "id": 14,
         "categoriaId": 3,
-        "titulo": "O que é Data Science?",
-        "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+        "titulo": "O Exorcista",
+        "url": "https://www.youtube.com/watch?v=xUntodg-vXY"
       },
       {
         "id": 15,
         "categoriaId": 3,
-        "titulo": "Melhor forma de aprender Python",
-        "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+        "titulo": "Psicose",
+        "url": "https://www.youtube.com/watch?v=wfGjWZmyvfo"
       },
       {
         "id": 16,
         "categoriaId": 3,
-        "titulo": "Como ingressar no mercado de Data Science?",
-        "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+        "titulo": "Halloween - A Noite do Terror",
+        "url": "https://www.youtube.com/watch?v=zZBLEiKhlGc"
       },
       {
         "id": 17,
         "categoriaId": 4,
-        "titulo": "Interestellar",
-        "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+        "titulo": "Mãe!",
+        "url": "https://www.youtube.com/watch?v=l8nmbg9NbUI"
       },
       {
         "id": 18,
         "categoriaId": 4,
-        "titulo": "Gattaca",
-        "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+        "titulo": "Cisne Negro",
+        "url": "https://www.youtube.com/watch?v=9jOGFv74Wd4"
       },
       {
         "id": 19,
         "categoriaId": 4,
-        "titulo": "A Chegada",
-        "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+        "titulo": "Precisamos Falar Sobre o Kevin",
+        "url": "https://www.youtube.com/watch?v=37Hwj5j6z3Y"
       },
       {
         "id": 20,
         "categoriaId": 4,
-        "titulo": "Feitiço do Tempo",
-        "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+        "titulo": "Ilha do Medo",
+        "url": "https://www.youtube.com/watch?v=y3dalJDGmt0"
       },
       {
         "id": 21,
         "categoriaId": 5,
-        "titulo": "Final Fantasy 7",
-        "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+        "titulo": "Hereditário",
+        "url": "https://www.youtube.com/watch?v=aVqszEgRYsc"
       },
       {
         "id": 22,
         "categoriaId": 5,
-        "titulo": "Assassins Creed Valhalla",
-        "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+        "titulo": "A Bruxa",
+        "url": "https://www.youtube.com/watch?v=FE-u6RznkGQ"
       },
       {
         "id": 23,
         "categoriaId": 5,
-        "titulo": "God of War 4",
-        "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+        "titulo": "Babadook",
+        "url": "https://www.youtube.com/watch?v=k5WQZzDRVtw"
       },
       {
         "id": 24,
         "categoriaId": 5,
-        "titulo": "Resident Evil 8",
-        "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+        "titulo": "O Farol",
+        "url": "https://www.youtube.com/watch?v=aJoGdiyvdYs"
       }
     ]
   }
