@@ -4,179 +4,169 @@
         "id": 1,
         "titulo": "Terror Sobrenatural",
         "cor": "#6BD1FF",
-        },
+        "link_extra": {
+          "text": "Terror em Silent Hill",
+          "url": "https://www.youtube.com/watch?v=1mfnhu8sO5k"
+        }
+      },
       {
         "id": 2,
         "titulo": "Casos Reais",
         "cor": "#00C86F",
+        "link_extra": {
+          "text": "Invocação do Mal",
+          "url": "https://www.youtube.com/watch?v=GQrrXceHn2E"
+        }
       },
       {
         "id": 3,
         "titulo": "Clássicos do Cinema",
         "cor": "#9cd33b",
+        "link_extra": {
+          "text": "O Iluminado",
+          "url": "https://www.youtube.com/watch?v=lnsFOmv8Yjk"
+        }
       },
       {
         "id": 4,
         "titulo": "Terror Psicológico",
         "cor": "orange",
+        "link_extra": {
+          "text": "A Pele que Habito",
+          "url": "https://www.youtube.com/watch?v=9Wgs0cGBj8E"
+        }
       },
       {
         "id": 5,
         "titulo": "Aclamados pela crítica",
         "cor": "red",
+        "link_extra": {
+          "text": "Corra",
+          "url": "https://www.youtube.com/watch?v=mDGV5UucTu8"
+        }
       }
     ],
     "videos": [
       {
         "id": 1,
         "categoriaId": 1,
-        "titulo": "Terror em Silent Hill",
-        "url": "https://www.youtube.com/watch?v=1mfnhu8sO5k"
-      },
-      {
-        "id": 2,
-        "categoriaId": 1,
         "titulo": "A Morte do Demônio",
         "url": "https://www.youtube.com/watch?v=JBfub8SbtvU"
       },
       {
-        "id": 3,
+        "id": 2,
         "categoriaId": 1,
         "titulo": "O Chamado",
         "url": "https://www.youtube.com/watch?v=8oiHy_yoJHQ"
       },
       {
-        "id": 4,
+        "id": 3,
         "categoriaId": 1,
         "titulo": "Sobrenatural",
         "url": "https://www.youtube.com/watch?v=0AHVW_yenRs"
       },
       {
-        "id": 5,
+        "id": 4,
         "categoriaId": 1,
         "titulo": "Annabelle",
         "url": "https://www.youtube.com/watch?v=kHl6aU30pIo"
       },
       {
-        "id": 6,
+        "id": 5,
         "categoriaId": 1,
         "titulo": "Assim na Terra como no Inferno",
         "url": "https://www.youtube.com/watch?v=ry4QSkZYS64"
       },
       {
-        "id": 7,
+        "id": 6,
         "categoriaId": 1,
         "titulo": "IT: A Coisa",
         "url": "https://www.youtube.com/watch?v=dD264ZjfKlk"
       },
       {
-        "id": 8,
+        "id": 7,
         "categoriaId": 1,
         "titulo": "Imagens do Além",
         "url": "https://www.youtube.com/watch?v=Aa6EwMEScgA"
       },
       {
-        "id": 9,
-        "categoriaId": 2,
-        "titulo": "Invocação do Mal",
-        "url": "https://www.youtube.com/watch?v=GQrrXceHn2E"
-      },
-      {
-        "id": 10,
+        "id": 8,
         "categoriaId": 2,
         "titulo": "A Bruxa de Blair",
         "url": "https://www.youtube.com/watch?v=zgPiiaLQD5Y"
       },
       {
-        "id": 11,
+        "id": 9,
         "categoriaId": 2,
         "titulo": "O Exorcismo de Emily Rose",
         "url": "https://www.youtube.com/watch?v=Bi-PLwxwvy8"
       },
       {
-        "id": 12,
+        "id": 10,
         "categoriaId": 2,
         "titulo": "Terror em Amityville",
         "url": "https://www.youtube.com/watch?v=2Qwt2XzrpOo"
       },
       {
-        "id": 13,
+        "id": 11,
         "categoriaId": 2,
         "titulo": "O Massacre da Serra Elétrica",
         "url": "https://www.youtube.com/watch?v=ok7VU_1uL90"
       },
       {
-        "id": 14,
+        "id": 12,
         "categoriaId": 2,
         "titulo": "Viagem ao Inferno",
         "url": "https://www.youtube.com/watch?v=EIA_xadQ1Lk"
       },
       {
-        "id": 15,
-        "categoriaId": 3,
-        "titulo": "O Iluminado",
-        "url": "https://www.youtube.com/watch?v=lnsFOmv8Yjk"
-      },      
-      {
-        "id": 16,
+        "id": 13,
         "categoriaId": 3,
         "titulo": "O Bebê de Rosemary",
         "url": "https://www.youtube.com/watch?v=JGQlvbpIMwc"
       },
       {
-        "id": 17,
+        "id": 14,
         "categoriaId": 3,
         "titulo": "O Exorcista",
         "url": "https://www.youtube.com/watch?v=xUntodg-vXY"
       },
       {
-        "id": 18,
+        "id": 15,
         "categoriaId": 3,
         "titulo": "Psicose",
         "url": "https://www.youtube.com/watch?v=wfGjWZmyvfo"
       },
       {
-        "id": 19,
+        "id": 16,
         "categoriaId": 3,
         "titulo": "Halloween - A Noite do Terror",
         "url": "https://www.youtube.com/watch?v=zZBLEiKhlGc"
       },
       {
-        "id": 20,
+        "id": 17,
         "categoriaId": 4,
         "titulo": "Mãe!",
         "url": "https://www.youtube.com/watch?v=l8nmbg9NbUI"
-      },      
-      {
-        "id": 21,
-        "categoriaId": 4,
-        "titulo": "A Pele que Habito",
-        "url": "https://www.youtube.com/watch?v=9Wgs0cGBj8E"
       },
       {
-        "id": 22,
+        "id": 18,
         "categoriaId": 4,
         "titulo": "Cisne Negro",
         "url": "https://www.youtube.com/watch?v=9jOGFv74Wd4"
       },
       {
-        "id": 23,
+        "id": 19,
         "categoriaId": 4,
         "titulo": "Precisamos Falar Sobre o Kevin",
         "url": "https://www.youtube.com/watch?v=37Hwj5j6z3Y"
       },
       {
-        "id": 24,
+        "id": 20,
         "categoriaId": 4,
         "titulo": "Ilha do Medo",
         "url": "https://www.youtube.com/watch?v=y3dalJDGmt0"
       },
-      {
-        "id": 21,
-        "categoriaId": 5,
-        "titulo": "Corra",
-        "url": "https://www.youtube.com/watch?v=mDGV5UucTu8"
-      },      
       {
         "id": 21,
         "categoriaId": 5,
