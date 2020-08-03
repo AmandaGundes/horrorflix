@@ -77,6 +77,7 @@ function CadastroCategoria() {
         </Button>
       </form>
 
+      <br />
 
       <Link to="/">
         <Button>
