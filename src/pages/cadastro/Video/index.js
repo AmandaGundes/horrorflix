@@ -68,7 +68,7 @@ function CadastroVideo() {
         />
 
         <Button type="submit">
-          Cadastrar
+          Cadastrar Vídeo
         </Button>
       </form>
 
@@ -76,7 +76,9 @@ function CadastroVideo() {
       <br />
 
       <Link to="/cadastro/categoria">
-        Cadastrar Categoria
+        <Button>
+          Cadastrar Categoria
+        </Button>
       </Link>
     </PageDefault>
   );

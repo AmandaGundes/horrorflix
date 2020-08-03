@@ -18,8 +18,8 @@ function CadastroCategoria() {
 
   useEffect(() => {
     const URL_TOP = window.location.hostname.includes('localhost')
-    ? 'http://localhost:8080/categorias'
-    : 'https://alura-horrorflix.herokuapp.com/categorias';
+      ? 'http://localhost:8080/categorias'
+      : 'https://alura-horrorflix.herokuapp.com/categorias';
     fetch(URL_TOP)
       .then(async (respostaDoServidor) => {
         const resposta = await respostaDoServidor.json();
@@ -73,7 +73,7 @@ function CadastroCategoria() {
         />
 
         <Button>
-          Cadastrar
+          Cadastrar Categoria
         </Button>
       </form>
 
@@ -92,7 +92,9 @@ function CadastroCategoria() {
       </ul>
 
       <Link to="/">
-        Ir para Home
+        <Button>
+          Ir para Home
+        </Button>
       </Link>
     </PageDefault>
   );
